@@ -12,7 +12,7 @@
     };
 
     ext.my_first_block = function () {
-        // Code that gets executed when the block is run
+        console.log("Hello");
     };
 
     // Block and block menu descriptions
